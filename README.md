@@ -1,2 +1,0 @@
-# BlogArticle
-Blog Article
